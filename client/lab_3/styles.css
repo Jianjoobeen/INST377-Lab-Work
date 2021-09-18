@@ -1,3 +1,6 @@
+.topbar {
+  height: 100px;
+}
 .menu-container {
     /* ... */
     color: #fff;
@@ -73,8 +76,8 @@
     height: 300px;
   }
 
-  .social,
-  .subscribe {
+  .github-link,
+  .group-link {
     align-self: flex-end;
     margin-bottom: 20px;
   }
